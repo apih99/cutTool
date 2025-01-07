@@ -17,7 +17,7 @@ A Rust implementation of the Unix `cut` command line tool. This tool allows you 
 
 2. Clone this repository:
 ```bash
-git clone [<repository-url>](https://github.com/apih99/cutTool)
+git clone https://github.com/apih99/cutTool
 cd cut-tool
 ```
 
